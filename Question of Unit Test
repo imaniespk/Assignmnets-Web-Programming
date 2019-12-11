@@ -1,0 +1,93 @@
+ Very Short Answer Questions
+1. What is DOM?
+DOM stands for document Object Modeling. 
+It helps to structure and load web pages content according to hierchy and user defined form.
+In DOM contents are represented in the form of node and objects.
+
+2. What are types of list in HTML? Explain one with example.
+The types of list in html are
+1. Unordred List
+2. Ordered List
+
+Ordered List
+Ordered List are the list which are in ordered or structured form.
+exmaple
+1 html
+2 css
+3 Javascript
+
+<ul>
+<li>Html</li>
+<li>css</li>
+<li>Javascript</li>
+</ul>
+
+3. What are self closing tags. Give example
+Self closing tags are the tags in html which does not require cloing tag. Ex <br>
+
+4. What is web brower. Name any four web browser 
+  Web browser are the applcation software which loads web pages on user request.
+  Four Web Browser
+  Opera Mini
+  Safari
+  Google Chrome
+  Mozila Firefox
+
+Short Answer Quetions
+Explain type of css with proper syntax.
+The types of css are explained bellow
+
+1. Inline CSS
+The css done with a line oor tag is called Inline css. It holds the highest priority in CSS.
+Syntax
+<tag style="property:value;">
+Exmaple <h1 style="color:red;>
+
+2. External CSS
+The CSS done within heda tag using <style> element. It holds the second priority in CSS
+Syntax
+<head>
+<style>
+slector
+{
+propety:value;
+}
+</style>.
+
+3. External CSS
+The CSS stylind done by creating an external css file is calle external css.
+It is linked using link tg
+Syntax
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+Explain any three types of selectors in CSS
+The three types of CSS Selctors are explained bellow
+
+1. Universal Selector
+ It is the css selector which selects entire thing of an html document.
+ Syntax
+ *{
+  property:value;
+ }
+ 
+ 2. Tag Selector
+ It is an CSS Selector which selects an certain tag of nn html document
+ Syntax
+ tag
+ {
+ property:value;
+ }
+
+
+3 Id Selector
+It is an CSS Selector which selects and id defined in HTML Documnet
+Syntax
+#idname
+{
+propety:value;
+}
+
+Long Questions
+
+Long Question is in same repo 
